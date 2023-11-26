@@ -1,2 +1,2 @@
 # Delta-Demo
-This is a delta demo class project 
+This is a delta demo class project. 
